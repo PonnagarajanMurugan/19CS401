@@ -3,14 +3,14 @@ To Write A CPP Program to allocate memory dynamically for a double array. (Note:
 
 
 # ALGORTHIM:
-
+```
 1.Start the program.
 2.Define a class named student.
 3.Declare integer variables and a float pointer to dynamically allocate an array.
 4.In the constructor, display a message, read the size of the array, and take input for each element.
 5.In the destructor, display the array elements and a message indicating the array is deleted.
 6.Create an object of the student class in the main function and end the program.
-
+```
 # PROGRAM:
 
 ```
