@@ -54,6 +54,7 @@ int main(void)
 
 # OUTPUT:'
 
+![Screenshot 2025-05-29 181203](https://github.com/user-attachments/assets/51b30cb5-e16e-43a2-a990-8e885ddd65b5)
 
 # RESULT:
 
